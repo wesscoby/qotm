@@ -7,11 +7,11 @@ path=./src/fetch_quote.js    # Change this path to an absolute path if you want 
 
 # Check if both cowsay and lolcat packages are installed, then use them to format the output
 if [ -x /usr/games/cowsay -a -x /usr/games/lolcat ]; then
-    node $path | cowsay | lolcat
+    babel-node $path | cowsay | lolcat
 else
     if [ -x /usr/games/cowsay ]; then
-        node $path | cowsay
+        babel-node $path | cowsay
     else
-         node $path
+         babel-node $path
     fi
 fi
