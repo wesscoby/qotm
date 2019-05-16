@@ -1,0 +1,11 @@
+#!/bin/bash
+
+#   Get Commit message
+read -r -p 'Commit Message: ' desc
+
+#   Staging and Tracking
+git add .   # track all files
+git add -u  # track deletes
+
+# Committing
+git commit -m "$desc"

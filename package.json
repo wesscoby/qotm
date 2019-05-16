@@ -1,0 +1,20 @@
+{
+  "name": "qotm",
+  "version": "1.0.0",
+  "description": "Quote of the Moment",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WessCoby/qotm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WessCoby/qotm/issues"
+  },
+  "homepage": "https://github.com/WessCoby/qotm#readme"
+}
