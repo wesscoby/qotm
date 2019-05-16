@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/WessCoby/qotm/issues"
   },
-  "homepage": "https://github.com/WessCoby/qotm#readme"
+  "homepage": "https://github.com/WessCoby/qotm#readme",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
 }
