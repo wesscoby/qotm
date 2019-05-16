@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# Fetch a random quote and display it...
+
+# Change this path to an absolute path if you want to run from bin
+node ./quotes/fetch_quote.js | cowsay | lolcat
