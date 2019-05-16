@@ -1,0 +1,155 @@
+{
+  "name" : "All time favorite quotes",
+  "collected_by" : "WessCoby",
+  "version" : 1.0,
+  "quotes_database" : [
+    {
+      "description": "Popular Quotes",
+      "type": "single",
+      "data": [
+        {
+          "author": "Unknown",
+          "quotes" : [
+            { "text": "Declare variables, not war"  },
+            { "text": "First solve the problem. Then, write the code"  },
+            { "text": "Debugging is like being the detective in a crime movie where you are also the murderer"  },
+            { "text": "I would love to change the world but they won't give me the source code"  },
+            { "text": "Programming is thinking, not typing"  },
+            { "text": "A designer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away"  },
+            { "text": "Programming is 10% writing code and 90% understanding why it is not working"  }
+          ]
+        },
+        {
+          "author" : "Known",
+          "quotes" : [
+            { "author" : "Why the Lucky Stiff", "text" : "When you don't create things, you become defined by your tastes rather than ability. Your tastes only narrow and exclude people. So create" },
+            { "author" : "John Woods", "text" : "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live" },
+            { "author" : "Rick Cook", "text" : "Programming today is a race between Software Engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the universe is winning"  },
+            { "author" : "Ellen Ullman", "text" : "We build our computer (systems) the way we build our cities: over time, without a plan, on top of ruins"},
+            { "author" : "Larry Niven", "text" : "That's the thing about people who think they hate computers. What they really hate is lousy programmers"  },
+            { "author" : "Waseem Latif", "text" : "Give a man a program, frustrate him for a day. Teach him to program, frustrate him for a lifetime" },
+            { "author" : "Joseph Weizenbaum", "text" : "The computer programmer is a creator of universes for which he alone is the lawgiver. No playwright, no stage director, no emperor, however powerful, has ever exercised such absolute authority to arrange a stage or field of battle and to command such unswervingly dutiful actors or troops" },
+            { "author" : "Fredrick Brooks", "text" : "What one programmer can do in one month, two programmers can do in two months"},
+            { "author" : "Patrick McKenzie", "text" : "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it"  },
+            { "author" : "Jeremy Keith", "text" : "Java is to JavaScript as ham is to hamster"  },
+            { "author" : "Chris Heilmann", "text" : "Java is to JavaScript what Car is to Carpet" },
+            { "author" : "Oscar Godson", "text" : "One of the best programming skills you can have is knowing when to walk away for a while"  },
+            { "author" : "Dave Thomas", "text" : "Write shy code - modules that don't reveal anything unnecessary to other modules and that don't rely on other modules' implementations" },
+            { "author" : "Ellen Ullman", "text" : "Computer programming has always been a self-taught maverick occupation"  }
+
+          ]
+        }
+      ]
+    },
+
+    {
+      "type" : "collection",
+      "description" : "Collections of quotes grouped by Authors",
+      "data" : [
+        {
+          "author" : "WessCoby",
+          "quotes" : [
+            { "text": "You have the power to say no, but don't say no to your powers"  },
+            { "text": "They say the pen is mightier than the sword. Pray therefore, that it's on the Father's will your will depends every time you wield the pen"},
+            { "text": "Don't act beautiful, feel beautiful. If you get it, don't forget it"},
+            { "text": "You cannot right wrongs with the wrong writes"},
+            { "text": "Most of us probably already know our way forward. We just need help finding our feet. May God help us"},
+            { "text": "Salvation begins first, when you are separated from sin. That is remission. Then comes the fun part - you get to carry the one throughout your life like long division"},
+            { "text": "It's useless speaking or preaching the truth when you are not living it. As a child of God, you are made to represent and not present"},
+            { "text": "The essence of time is for you to keep watch. So don't chase time. And don't let it chase you either"},
+            { "text": "Do not just follow because it may seem like a good lead. Follow only because it's the spirit's lead"},
+            { "text": "When you come to know and really understand God's love for you, what He's willing to do for you and levels He's willing to go just to get you, your thoughts change. Even thots change. You can ask Hosea in the Bible"},
+            { "text": "Trust in the light of God and even in the darkest of places, you will still see your shadow"},
+            { "text": "When you get to that place where you feel you can't go any further because, all you see is walls in front, remember to forget about everything and just spray your way out lke graffiti art. Yes, Just Pray."},
+            { "text": "Let it be love - the only force that drives you to give, to do good and to be. Let it be love. For love is who God is"  },
+            { "text": "Praise out your pain and God will make the blessings rain"  },
+            { "text": "Success is inevitable when passion meets purpose"  },
+            { "text": "Finding the right one is like solving an algebraic equation. You got to factor her out of the lot - make her stand out. Then give her a value that ensures the other side of the equation equals zero"  },
+            { "text": "Treat a stranger like a friend, a friend like your sibling, a sibling like your spouse, and your spouse like your best friend"  },
+            { "text": "Take the torch from yesterday and shun some light on today, and i guarantee you a brighter tomorrow"  },
+            { "text": "Life can be pretty rough. But with Jesus in your business, you can still make ends meet without bending the line"  },
+            { "text": "They say you plan to fail if you fail to plan. I can't argue with that. But i say, the only plan you need is the plan to seek God"  },
+            { "text": "Define and redefine your own life. Because you won't find that definition in a dictionary"  },
+            { "text": "My limits only define my targets, not the extent of my abilities. Hence, the sky is my limit"  },
+            { "text": "The port to happiness is always open. The only hindrances are closed eyes and a cold heart"  }
+          ]
+        },
+
+        {
+          "author" : "Martin Fowler",
+          "quotes" : [
+            { "text": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand"  },
+            { "text": "I'm not a great programmer; I'm just a good programmer with great habits"  },
+            { "text": "If you can get today's work done today, but you do it in such a way that you can't possibly get tomorrow's work done tomorrow, then you lose"  },
+            { "text": "In almost all cases, I'm opposed to setting aside time for refactoring. In my view, refactoring is not an activity you set aside time to do. Refactoring is something you do all the time in little bursts"  },
+            { "text": "It takes a while to create nothing"  },
+            { "text": "Poorly designed code usually takes more code to do the same things, often because the code quite literally does the same thing in several places"  },
+            { "text": "Whenever I have to think to understand what the code is doing, I ask myself if i can refactor the code to make that understanding more immediately apparent"  }
+          ]
+        },
+
+        {
+          "author" : "Robert C. Martin",
+          "quotes" : [
+            { "text": "It is not enough for the code to work"  },
+            { "text": "Indeed, the ratio of time spent reading versus writing is well over 10 to 1. We are constantly reading old code as part of the effort to write new code... [Therefore,] making it easy to read makes it easier to write"  },
+            { "text": "Truth can only be found in one place: the code"  },
+            { "text": "So if you want to go fast, if you want to get done quickly, if you want your code to be easy to write, make it easier to read"  },
+            { "text": "If you're good at the debugger, it means you spent a lot of time debugging. I don't want you to be good at the debugger"  },
+            { "text": "A long descriptive name is better than a short enigmatic name. A long descriptive name is better than a long descriptive comment"  },
+            { "text": "You should name a variable with the same care with which you name your first-born child"  },
+            { "text": "It is not the language that makes programs appear simple. It is the programmer that makes the language appear simple"  },
+            { "text": "Of course bad code can be cleaned up. But it is very expensive"  },
+            { "text": "Programming is a social activity"  },
+            { "text": "Clean code always looks like it was written by someone who cares"  },
+            { "text": "Redundant comments are just places to collect lies and misinformation"  },
+            { "text": "Writing clean code is what you must do in order to call yourself a professional. There is no reasonable excuse for doing anything less than your best"  },
+            { "text": "If you are tired or distracted, do not code"  },
+            { "text": "Honesty in small things is not a small thing"  },
+            { "text": "Creative output depends on creative input"  }
+          ]
+        },
+
+        {
+          "author" : "Linus Torvalds",
+          "quotes" : [
+            { "text": "Talk is cheap. Show me the code"  },
+            { "text": "Theory and practice sometimes clash. And when that happens, theory loses. Every single time"  },
+            { "text": "I like offending people, because I think people who get offended should be offended"  },
+            { "text": "Intelligence is the ability to avoid doing work, yet getting the work done"  },
+            { "text": "Those that can, do. Those that can't, complain"  },
+            { "text": "By staying neutral, I end up being somebody that everybody can trust. Even if they don't always agree with my decisions, they know I'm not working against them"  },
+            { "text": "People who are doing things for fun do things the right way by themselves"  },
+            { "text": "Don't hurry your code. Make sure it works well and is well designed. Don't worry about timing"  },
+            { "text": "Programmers are in the enviable position of not only getting to do what they want to, but because the end result is so important they get paid to do it. There are other professions like that, but not that many"  },
+            { "text": "If you start doing things because you hate others and want to screw them over, the end result is bad"  },
+            { "text": "In many cases the user interface to a program is the most important part for a commercial company: whether the programs works correctly or not seems to be secondary"  },
+            { "text": "The fact is, there aren't just two sides to any issue, there's almost always a range of responses, and \"it depends\" is almost always the right answer in any big question"  },
+            { "text": "To be honest, the fact that people trust you gives you a lot of power over people. Having another person's trust is more powerful than all other management techniques put together"  }
+          ]
+        },
+
+        {
+          "author" : "Bill Gates",
+          "quotes" : [
+            { "text": "I choose a lazy person to do a hard job. Because a lazy person will find an easy way to do it"  },
+            { "text": "I am not in competition with anyone but myself. My goal is to improve myself continuously"  },
+            { "text": "Success today requires the agility and drive to constantly rethink, reinvigorate, react, and reinvent"  },
+            { "text": "Vision without execution is daydreaming"  },
+            { "text": "Vision without execution is daydreaming"  },
+            { "text": "If your goal is to make the world a better place, one thing you can do is pick a specific challenge that you really care about. Then, learn as much as you can about it and try to volunteer your time to help an organization that is working in this area. While you're doing that, look for creative new ways to use technology to tackle parts of the problem that you come in contact with"  },
+            { "text": "Leaders are those who empower others"  },
+            { "text": "Look at the clock when you are sitting idle. But never look at the clock when you are working"  },
+            { "text": "The world won't care about your self-esteem. The world will expect you to accomplish something BEFORE you feel good about yourself"  },
+            { "text": "You can make money and you can make excuses, but you can never make money out of excuses"  },
+            { "text": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight"  },
+            { "text": "Most people overestimate what they can do in one year and underestimate what they can do in ten years"  }
+          ]
+        }
+
+      ]
+    }
+
+  ]
+
+}
