@@ -4,7 +4,10 @@
   "description": "Quote of the Moment",
   "main": "index.js",
   "scripts": {
-    "test": "jest ."
+    "test": "jest .",
+    "start": "./qotm",
+    "commit": "./git-comm",
+    "push": "git push origin master"
   },
   "repository": {
     "type": "git",

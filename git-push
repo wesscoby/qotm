@@ -1,3 +1,0 @@
-#!/bin/bash
-# Deployment (Push to Origin)
-git push origin master
