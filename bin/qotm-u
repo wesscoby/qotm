@@ -3,5 +3,5 @@
 prefix="--git-dir=$HOME/.bash/qotm/.git"
 
 chmod u-x $HOME/.bash/qotm/bin/*
-git ${prefix} pull
+git -C "$HOME/.bash/qotm" pull
 chmod u+x $HOME/.bash/qotm/bin/*
