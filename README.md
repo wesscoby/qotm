@@ -31,8 +31,9 @@ Make sure you are in the root directory `qotm`. If you get a *Permission Denied*
 chmod u+x install.sh
 ./install.sh
 ```
-Reload bash: `source ~/.bashrc` or `exit` and reopen the terminal.
-**That's it!!!** Simply run `qotm` to display a random quote everytime.
+Reload bash: `source ~/.bashrc` or `exit` and reopen the terminal.<br>
+**That's it!!!** <br>
+Simply run `qotm` to display a random quote everytime.
 
 ### Updates
 This Repo will be frequently updated with new quotes. Simply run `qotm-u` to pull in new updates.
