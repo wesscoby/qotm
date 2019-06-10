@@ -7,11 +7,11 @@ path="$HOME/.bash/qotm/src/fetch_quote.js"   # Path to js file
 
 # Check if both cowsay and lolcat packages are installed, then use them to format the output
 if [[ -x /usr/games/cowsay && -x /usr/games/lolcat ]]; then
-    babel-node ${path} | cowsay | lolcat
+    node ${path} | cowsay | lolcat
 elif [[ -x /usr/games/cowsay ]]; then
-    babel-node ${path} | cowsay
+    node ${path} | cowsay
 elif [[ -x /usr/games/lolcat ]]; then
-    babel-node ${path} | lolcat
+    node ${path} | lolcat
 else
-    babel-node ${path}
+    node ${path}
 fi
