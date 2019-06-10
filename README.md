@@ -1,4 +1,4 @@
-## Quote of the Moment
+# Quote of the Moment
 If you've ever used the `fortune` package, this is quite similar. Most of us use `fortune` with `cowsay` and/or `lolcat`.<br>
 If you've not used or heard of them, then: <br>
 -   **fortune:** basically, a program that displays quotes or random messages. To install: 
@@ -8,13 +8,13 @@ If you've not used or heard of them, then: <br>
 -   **lolcat:** formats text with nice colors. To install:
     -   `sudo apt-get install lolcat`
 
-### Overview
+## Overview
 
 `qotm` is my version of `fortune` but outputs programming quotes (well, plus a few quotes i have created :wink:) and it makes use of both `lolcat` and `cowsay`. So it is best to have them installed first. And, oh! this is a bash script which runs a Javascript file in the background to fetch the quote from a JSON file, then output. Make sure you have `Node.js` installed.
 
 ![qotm command preview](./preview.png)
 
-### Installation
+## Installation
 Clone the project into a `.bash` folder in your home directory:
 ```sh
 mkdir ~/.bash
@@ -35,5 +35,5 @@ Reload bash: `source ~/.bashrc` or `exit` and reopen the terminal.<br>
 **That's it!!!** <br>
 Simply run `qotm` to display a random quote everytime.
 
-### Updates
+## Updates
 This Repo will be frequently updated with new quotes. Simply run `qotm-u` to pull in new updates.
