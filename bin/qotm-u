@@ -1,7 +1,7 @@
 #!/bin/bash
 ### Git Prefix
-prefix="--git-dir=$HOME/.bash/qotm/.git"
+path="$HOME/.bash/qotm/"
 
-chmod u-x $HOME/.bash/qotm/bin/*
-git -C "$HOME/.bash/qotm" pull
-chmod u+x $HOME/.bash/qotm/bin/*
+chmod u-x ${path}/bin/*
+git -C ${path} pull
+chmod u+x ${path}/bin/*
