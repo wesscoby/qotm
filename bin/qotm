@@ -3,7 +3,7 @@
 # Fetch a random quote and display it...
 
 # Path to Js Source file
-path=./src/fetch_quote.js    # Change this path to an absolute path if you want to run from bin
+path=~/.bash/qotm/src/fetch_quote.js    # Path to js file
 
 # Check if both cowsay and lolcat packages are installed, then use them to format the output
 if [ -x /usr/games/cowsay -a -x /usr/games/lolcat ]; then

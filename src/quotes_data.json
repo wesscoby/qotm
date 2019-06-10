@@ -35,7 +35,10 @@
             { "author" : "Chris Heilmann", "text" : "Java is to JavaScript what Car is to Carpet" },
             { "author" : "Oscar Godson", "text" : "One of the best programming skills you can have is knowing when to walk away for a while"  },
             { "author" : "Dave Thomas", "text" : "Write shy code - modules that don't reveal anything unnecessary to other modules and that don't rely on other modules' implementations" },
-            { "author" : "Ellen Ullman", "text" : "Computer programming has always been a self-taught maverick occupation"  }
+            { "author" : "Ellen Ullman", "text" : "Computer programming has always been a self-taught maverick occupation"  },
+            { "author" : "Douglas Crockford", "text" : "We like to think we spend our time power typing, but we actually spend most of our time starring into the abyss"  },
+            { "author" : "Jason Fried", "text" : "What something is called can suggest purpose. The more precise the word, the more intentionality there is behind it"  },
+            { "author" : "Frank Lord Wright", "text" : "You can use an eraser on the drafting table or a sledgehammer on the construction site"  }
 
           ]
         }
