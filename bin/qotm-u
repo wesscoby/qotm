@@ -2,6 +2,6 @@
 ### Git Prefix
 prefix="--git-dir=$HOME/.bash/qotm/.git"
 
-chmod u-x ./bin/*
+chmod u-x $HOME/.bash/qotm/bin/*
 git ${prefix} pull
-chmod u+x ./bin/*
+chmod u+x $HOME/.bash/qotm/bin/*
