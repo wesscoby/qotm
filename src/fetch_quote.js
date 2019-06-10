@@ -1,4 +1,4 @@
-import quotes from './quotes_data';
+const quotes = require('./quotes_data');
 const { log } = console;
 
 // Fetch a quote at random from `quotes` and log to the console.
