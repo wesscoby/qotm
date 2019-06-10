@@ -1,4 +1,5 @@
 // import quotes from './quotes_data';
+
 const quotes = require('./quotes_data');
 const { log } = console;
 
