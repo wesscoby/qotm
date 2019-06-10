@@ -10,7 +10,7 @@ If you've not used or heard of them, then: <br>
 
 ### Overview
 
-`qotm` is my version of `fortune` but outputs programming quotes (well, plus a few quotes i have created :wink:) and it makes use of both `lolcat` and `cowsay`. So it is best to have them installed first. And, oh! this is a bash script which runs a Javascript file in the background to fetch the quote from a JSON file, then output.
+`qotm` is my version of `fortune` but outputs programming quotes (well, plus a few quotes i have created :wink:) and it makes use of both `lolcat` and `cowsay`. So it is best to have them installed first. And, oh! this is a bash script which runs a Javascript file in the background to fetch the quote from a JSON file, then output. Make sure you have `Node.js` installed.
 
 ![qotm command preview](./preview.png)
 
