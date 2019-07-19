@@ -1,0 +1,332 @@
+{
+    "quotes": [
+      {
+        "author": "Why the Lucky Stiff",
+        "text": "When you don't create things, you become defined by your tastes rather than ability. Your tastes only narrow and exclude people. So create"
+      },
+      {
+        "author": "John Woods",
+        "text": "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live"
+      },
+      {
+        "author": "Rick Cook",
+        "text": "Programming today is a race between Software Engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the universe is winning"
+      },
+      {
+        "author": "Ellen Ullman",
+        "text": "We build our computer (systems) the way we build our cities: over time, without a plan, on top of ruins"
+      },
+      {
+        "author": "Larry Niven",
+        "text": "That's the thing about people who think they hate computers. What they really hate is lousy programmers"
+      },
+      {
+        "author": "Waseem Latif",
+        "text": "Give a man a program, frustrate him for a day. Teach him to program, frustrate him for a lifetime"
+      },
+      {
+        "author": "Joseph Weizenbaum",
+        "text": "The computer programmer is a creator of universes for which he alone is the lawgiver. No playwright, no stage director, no emperor, however powerful, has ever exercised such absolute authority to arrange a stage or field of battle and to command such unswervingly dutiful actors or troops"
+      },
+      {
+        "author": "Fredrick Brooks",
+        "text": "What one programmer can do in one month, two programmers can do in two months"
+      },
+      {
+        "author": "Patrick McKenzie",
+        "text": "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it"
+      },
+      {
+        "author": "Jeremy Keith",
+        "text": "Java is to JavaScript as ham is to hamster"
+      },
+      {
+        "author": "Chris Heilmann",
+        "text": "Java is to JavaScript what Car is to Carpet"
+      },
+      {
+        "author": "Oscar Godson",
+        "text": "One of the best programming skills you can have is knowing when to walk away for a while"
+      },
+      {
+        "author": "Dave Thomas",
+        "text": "Write shy code - modules that don't reveal anything unnecessary to other modules and that don't rely on other modules' implementations"
+      },
+      {
+        "author": "Ellen Ullman",
+        "text": "Computer programming has always been a self-taught maverick occupation"
+      },
+      {
+        "author": "Douglas Crockford",
+        "text": "We like to think we spend our time power typing, but we actually spend most of our time starring into the abyss"
+      },
+      {
+        "author": "Jason Fried",
+        "text": "What something is called can suggest purpose. The more precise the word, the more intentionality there is behind it"
+      },
+      {
+        "author": "Frank Lord Wright",
+        "text": "You can use an eraser on the drafting table or a sledgehammer on the construction site"
+      },
+      {
+        "author": "Unknown",
+        "text": "When you don't create things, you become defined by your tastes rather than ability. Your tastes only narrow and exclude people. So create"
+      },
+      {
+        "author": "Unknown",
+        "text": "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live"
+      },
+      {
+        "author": "Unknown",
+        "text": "Programming today is a race between Software Engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the universe is winning"
+      },
+      {
+        "author": "Unknown",
+        "text": "We build our computer (systems) the way we build our cities: over time, without a plan, on top of ruins"
+      },
+      {
+        "author": "Unknown",
+        "text": "That's the thing about people who think they hate computers. What they really hate is lousy programmers"
+      },
+      {
+        "author": "Unknown",
+        "text": "Give a man a program, frustrate him for a day. Teach him to program, frustrate him for a lifetime"
+      },
+      {
+        "author": "Unknown",
+        "text": "The computer programmer is a creator of universes for which he alone is the lawgiver. No playwright, no stage director, no emperor, however powerful, has ever exercised such absolute authority to arrange a stage or field of battle and to command such unswervingly dutiful actors or troops"
+      },
+      {
+        "author": "Unknown",
+        "text": "What one programmer can do in one month, two programmers can do in two months"
+      },
+      {
+        "author": "Unknown",
+        "text": "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it"
+      },
+      {
+        "author": "Unknown",
+        "text": "Java is to JavaScript as ham is to hamster"
+      },
+      {
+        "author": "Unknown",
+        "text": "Java is to JavaScript what Car is to Carpet"
+      },
+      {
+        "author": "Unknown",
+        "text": "One of the best programming skills you can have is knowing when to walk away for a while"
+      },
+      {
+        "author": "Unknown",
+        "text": "Write shy code - modules that don't reveal anything unnecessary to other modules and that don't rely on other modules' implementations"
+      },
+      {
+        "author": "Unknown",
+        "text": "Computer programming has always been a self-taught maverick occupation"
+      },
+      {
+        "author": "Unknown",
+        "text": "We like to think we spend our time power typing, but we actually spend most of our time starring into the abyss"
+      },
+      {
+        "author": "Unknown",
+        "text": "What something is called can suggest purpose. The more precise the word, the more intentionality there is behind it"
+      },
+      {
+        "author": "Unknown",
+        "text": "You can use an eraser on the drafting table or a sledgehammer on the construction site"
+      },
+      {
+        "author": "Martin Fowler",
+        "text": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand"
+      },
+      {
+        "author": "Martin Fowler",
+        "text": "I'm not a great programmer; I'm just a good programmer with great habits"
+      },
+      {
+        "author": "Martin Fowler",
+        "text": "If you can get today's work done today, but you do it in such a way that you can't possibly get tomorrow's work done tomorrow, then you lose"
+      },
+      {
+        "author": "Martin Fowler",
+        "text": "In almost all cases, I'm opposed to setting aside time for refactoring. In my view, refactoring is not an activity you set aside time to do. Refactoring is something you do all the time in little bursts"
+      },
+      {
+        "author": "Martin Fowler",
+        "text": "It takes a while to create nothing"
+      },
+      {
+        "author": "Martin Fowler",
+        "text": "Poorly designed code usually takes more code to do the same things, often because the code quite literally does the same thing in several places"
+      },
+      {
+        "author": "Martin Fowler",
+        "text": "Whenever I have to think to understand what the code is doing, I ask myself if i can refactor the code to make that understanding more immediately apparent"
+      },
+      {
+        "author": "Robert C. Martin",
+        "text": "It is not enough for the code to work"
+      },
+      {
+        "author": "Robert C. Martin",
+        "text": "Indeed, the ratio of time spent reading versus writing is well over 10 to 1. We are constantly reading old code as part of the effort to write new code... [Therefore,] making it easy to read makes it easier to write"
+      },
+      {
+        "author": "Robert C. Martin",
+        "text": "Truth can only be found in one place: the code"
+      },
+      {
+        "author": "Robert C. Martin",
+        "text": "So if you want to go fast, if you want to get done quickly, if you want your code to be easy to write, make it easier to read"
+      },
+      {
+        "author": "Robert C. Martin",
+        "text": "If you're good at the debugger, it means you spent a lot of time debugging. I don't want you to be good at the debugger"
+      },
+      {
+        "author": "Robert C. Martin",
+        "text": "A long descriptive name is better than a short enigmatic name. A long descriptive name is better than a long descriptive comment"
+      },
+      {
+        "author": "Robert C. Martin",
+        "text": "You should name a variable with the same care with which you name your first-born child"
+      },
+      {
+        "author": "Robert C. Martin",
+        "text": "It is not the language that makes programs appear simple. It is the programmer that makes the language appear simple"
+      },
+      {
+        "author": "Robert C. Martin",
+        "text": "Of course bad code can be cleaned up. But it is very expensive"
+      },
+      {
+        "author": "Robert C. Martin",
+        "text": "Programming is a social activity"
+      },
+      {
+        "author": "Robert C. Martin",
+        "text": "Clean code always looks like it was written by someone who cares"
+      },
+      {
+        "author": "Robert C. Martin",
+        "text": "Redundant comments are just places to collect lies and misinformation"
+      },
+      {
+        "author": "Robert C. Martin",
+        "text": "Writing clean code is what you must do in order to call yourself a professional. There is no reasonable excuse for doing anything less than your best"
+      },
+      {
+        "author": "Robert C. Martin",
+        "text": "If you are tired or distracted, do not code"
+      },
+      {
+        "author": "Robert C. Martin",
+        "text": "Honesty in small things is not a small thing"
+      },
+      {
+        "author": "Robert C. Martin",
+        "text": "Creative output depends on creative input"
+      },
+      {
+        "author": "Linus Torvalds",
+        "text": "Talk is cheap. Show me the code"
+      },
+      {
+        "author": "Linus Torvalds",
+        "text": "Theory and practice sometimes clash. And when that happens, theory loses. Every single time"
+      },
+      {
+        "author": "Linus Torvalds",
+        "text": "I like offending people, because I think people who get offended should be offended"
+      },
+      {
+        "author": "Linus Torvalds",
+        "text": "Intelligence is the ability to avoid doing work, yet getting the work done"
+      },
+      {
+        "author": "Linus Torvalds",
+        "text": "Those that can, do. Those that can't, complain"
+      },
+      {
+        "author": "Linus Torvalds",
+        "text": "By staying neutral, I end up being somebody that everybody can trust. Even if they don't always agree with my decisions, they know I'm not working against them"
+      },
+      {
+        "author": "Linus Torvalds",
+        "text": "People who are doing things for fun do things the right way by themselves"
+      },
+      {
+        "author": "Linus Torvalds",
+        "text": "Don't hurry your code. Make sure it works well and is well designed. Don't worry about timing"
+      },
+      {
+        "author": "Linus Torvalds",
+        "text": "Programmers are in the enviable position of not only getting to do what they want to, but because the end result is so important they get paid to do it. There are other professions like that, but not that many"
+      },
+      {
+        "author": "Linus Torvalds",
+        "text": "If you start doing things because you hate others and want to screw them over, the end result is bad"
+      },
+      {
+        "author": "Linus Torvalds",
+        "text": "In many cases the user interface to a program is the most important part for a commercial company: whether the programs works correctly or not seems to be secondary"
+      },
+      {
+        "author": "Linus Torvalds",
+        "text": "The fact is, there aren't just two sides to any issue, there's almost always a range of responses, and \"it depends\" is almost always the right answer in any big question"
+      },
+      {
+        "author": "Linus Torvalds",
+        "text": "To be honest, the fact that people trust you gives you a lot of power over people. Having another person's trust is more powerful than all other management techniques put together"
+      },
+      {
+        "author": "Bill Gates",
+        "text": "I choose a lazy person to do a hard job. Because a lazy person will find an easy way to do it"
+      },
+      {
+        "author": "Bill Gates",
+        "text": "I am not in competition with anyone but myself. My goal is to improve myself continuously"
+      },
+      {
+        "author": "Bill Gates",
+        "text": "Success today requires the agility and drive to constantly rethink, reinvigorate, react, and reinvent"
+      },
+      {
+        "author": "Bill Gates",
+        "text": "Vision without execution is daydreaming"
+      },
+      {
+        "author": "Bill Gates",
+        "text": "Vision without execution is daydreaming"
+      },
+      {
+        "author": "Bill Gates",
+        "text": "If your goal is to make the world a better place, one thing you can do is pick a specific challenge that you really care about. Then, learn as much as you can about it and try to volunteer your time to help an organization that is working in this area. While you're doing that, look for creative new ways to use technology to tackle parts of the problem that you come in contact with"
+      },
+      {
+        "author": "Bill Gates",
+        "text": "Leaders are those who empower others"
+      },
+      {
+        "author": "Bill Gates",
+        "text": "Look at the clock when you are sitting idle. But never look at the clock when you are working"
+      },
+      {
+        "author": "Bill Gates",
+        "text": "The world won't care about your self-esteem. The world will expect you to accomplish something BEFORE you feel good about yourself"
+      },
+      {
+        "author": "Bill Gates",
+        "text": "You can make money and you can make excuses, but you can never make money out of excuses"
+      },
+      {
+        "author": "Bill Gates",
+        "text": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight"
+      },
+      {
+        "author": "Bill Gates",
+        "text": "Most people overestimate what they can do in one year and underestimate what they can do in ten years"
+      }
+    ]
+  }
