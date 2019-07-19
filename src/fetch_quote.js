@@ -2,7 +2,7 @@ const quotes = require('./quotes_data');
 const { log } = console;
 
 // Fetch a quote at random from `quotes` and log to the console.
-(function IIFE() {
+module.exports = () => {
 
     let fetchedQuoteAuthor = '', fetchedQuote = '';
 
@@ -38,9 +38,8 @@ const { log } = console;
     }
 
     // Log output
-    log(
-        `${fetchedQuote}
-        -- ${fetchedQuoteAuthor}`
-    );
+    return `
+    ${fetchedQuote}
+    -- ${fetchedQuoteAuthor}`
 
-})();
+};

@@ -1,7 +1,0 @@
-#!/bin/bash
-### Git Prefix
-path="$HOME/.bash/qotm/"
-
-chmod u-x ${path}/bin/*
-git -C ${path} pull
-chmod u+x ${path}/bin/*

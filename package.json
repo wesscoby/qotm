@@ -1,31 +1,31 @@
 {
-  "name": "qotm",
+  "name": "qotm-cli",
   "version": "1.0.0",
-  "description": "Quote of the Moment",
+  "description": "Quote of the Moment (Tech and Programming Quotes)",
   "main": "index.js",
-  "scripts": {
-    "test": "jest .",
-    "start": "./qotm",
-    "commit": "./git-comm",
-    "push": "git push origin master"
+  "preferGlobal": true,
+  "bin": {
+    "qotm": "index.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/WessCoby/qotm.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "qotm", "quotes", "quote of the day", "quote of the moment",
+    "tech", "programming"
+  ],
+  "author": "WessCoby <wc@wesscoby.me> (http://wesscoby.me)",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/WessCoby/qotm/issues"
   },
   "homepage": "https://github.com/WessCoby/qotm#readme",
-  "devDependencies": {
-    "jest": "^24.8.0"
-  },
+  "devDependencies": {},
   "dependencies": {
-    "@babel/core": "^7.4.4",
-    "@babel/node": "^7.2.2",
-    "@babel/preset-env": "^7.4.4"
+    "chalk": "^2.4.2",
+    "cowsay": "^1.4.0",
+    "lolcatjs": "^2.3.2",
+    "lowdb": "^1.0.0"
   }
 }

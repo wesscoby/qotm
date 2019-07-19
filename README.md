@@ -15,25 +15,12 @@ If you've not used or heard of them, then: <br>
 ![qotm command preview](./preview.png)
 
 ## Installation
-Clone the project into a `.bash` folder in your home directory:
-```sh
-mkdir ~/.bash
-cd ~/.bash 
-git clone git@github.com:WessCoby/qotm.git
-cd qotm
+Installing is easy.
+```js
+$ npm install -g qotm-cli
 ```
-Then run the `install.sh` file:
-```sh
-./install.sh
-```
-Make sure you are in the root directory `qotm`. If you get a *Permission Denied* error, change the file attribute to make it executable and run again:
-```sh
-chmod u+x install.sh
-./install.sh
-```
-Reload bash: `source ~/.bashrc` or `exit` and reopen the terminal.<br>
-**That's it!!!** <br>
+### Usage
 Simply run `qotm` to display a random quote everytime.
 
-## Updates
+### Updates
 This Repo will be frequently updated with new quotes. Simply run `qotm-u` to pull in new updates.
