@@ -1,19 +1,23 @@
 {
-  "name": "qotm-cli",
-  "version": "1.0.0",
+  "name": "qotm",
+  "version": "1.0.1",
   "description": "Quote of the Moment (Tech and Programming Quotes)",
   "main": "index.js",
   "preferGlobal": true,
   "bin": {
-    "qotm": "index.js"
+    "pq": "index.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/WessCoby/qotm.git"
   },
   "keywords": [
-    "qotm", "quotes", "quote of the day", "quote of the moment",
-    "tech", "programming"
+    "qotm",
+    "quotes",
+    "quote of the day",
+    "quote of the moment",
+    "tech",
+    "programming"
   ],
   "author": "WessCoby <wc@wesscoby.me> (http://wesscoby.me)",
   "license": "ISC",
@@ -23,9 +27,6 @@
   "homepage": "https://github.com/WessCoby/qotm#readme",
   "devDependencies": {},
   "dependencies": {
-    "chalk": "^2.4.2",
-    "cowsay": "^1.4.0",
-    "lolcatjs": "^2.3.2",
     "lowdb": "^1.0.0"
   }
 }
