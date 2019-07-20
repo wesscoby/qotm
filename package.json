@@ -1,11 +1,11 @@
 {
   "name": "qotm",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Quote of the Moment (Tech and Programming Quotes)",
   "main": "index.js",
   "preferGlobal": true,
   "bin": {
-    "pq": "index.js"
+    "qotm": "index.js"
   },
   "repository": {
     "type": "git",
