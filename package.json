@@ -1,6 +1,6 @@
 {
   "name": "qotm",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Quote of the Moment (Tech and Programming Quotes)",
   "main": "index.js",
   "preferGlobal": true,
