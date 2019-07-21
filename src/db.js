@@ -1,7 +1,6 @@
 #!/usr/bin/env node
-const lowdb = require('lowdb'),
-    low = require('lowdb'),
-    defaultQuotes = require('./src/default_quotes');
+const low = require('lowdb'),
+    defaultQuotes = require('./default_quotes');
     
 const FileSync = require('lowdb/adapters/FileSync'),
     adapter = new FileSync('db.json'),
@@ -17,7 +16,10 @@ const FileSync = require('lowdb/adapters/FileSync'),
         getRandomQuote: function(quotes) {
             const getRandomNumber = (maximumNumber = quotes.length) => Math.floor(Math.random() * maximumNumber);
           return quotes[getRandomNumber()];
-        }
+        },
+
       });
+
+    
 
 module.exports = db;
