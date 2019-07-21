@@ -327,6 +327,30 @@
     {
       "author": "Bill Gates",
       "text": "Most people overestimate what they can do in one year and underestimate what they can do in ten years"
+    },
+    {
+      "author": "Dave Cheney",
+      "text": "If software cannot be maintained, then it will be rewritten"
+    },
+    {
+      "author": "Robert C. Martin",
+      "text": "Functions should do one thing. They should do it well. They should do it only"
+    },
+    {
+      "author": "Alan Perlis",
+      "text": "There are two ways to write error-free programs; only the third one works"
+    },
+    {
+      "author": "Alan Turing",
+      "text": "Codes are a puzzle. A game, just like any other game"
+    },
+    {
+      "author": "Unknown",
+      "text": "Weeks of programming can save you hours of planning"
+    },
+    {
+      "author": "Erik Naggum",
+      "text": "Languages shape the way we think, or don't"
     }
   ]
 }
