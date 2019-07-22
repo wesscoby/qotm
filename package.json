@@ -28,6 +28,7 @@
   "devDependencies": {},
   "dependencies": {
     "commander": "^2.20.0",
+    "inquirer": "^6.5.0",
     "lowdb": "^1.0.0"
   }
 }

@@ -4,6 +4,8 @@
     program = require('commander'),
     { log } = console;
 
+
+
 const fetchQuote = () =>{
     // Get random number between 0 and QuotesDatabase.quotes.length
     const getRandomNumber = (maximumNumber = QuotesDatabase.quotes.length) =>
@@ -22,5 +24,6 @@ program
 // Run Qotm
 program
     .action(() => fetchQuote());
+
 
 program.parse(process.argv);

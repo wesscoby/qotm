@@ -298,10 +298,6 @@
     },
     {
       "author": "Bill Gates",
-      "text": "Vision without execution is daydreaming"
-    },
-    {
-      "author": "Bill Gates",
       "text": "If your goal is to make the world a better place, one thing you can do is pick a specific challenge that you really care about. Then, learn as much as you can about it and try to volunteer your time to help an organization that is working in this area. While you're doing that, look for creative new ways to use technology to tackle parts of the problem that you come in contact with"
     },
     {
@@ -351,6 +347,166 @@
     {
       "author": "Erik Naggum",
       "text": "Languages shape the way we think, or don't"
+    },
+    {
+      "author": "Alan Kay",
+      "text": "Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves"
+    },
+    {
+      "author": "Alan Turing",
+      "text": "A computer would deserve to be called intelligent if it could deceive a human into believing that it was human"
+    },
+    {
+      "author": "Alan Turing",
+      "text": "Machines take me by surprise with great frequency"
+    },
+    {
+      "author": "Albert Einstein",
+      "text": "It has become appallingly obvious that our technology has exceeded our humanity"
+    },
+    {
+      "author": "Arthur C. Clarke",
+      "text": "Any sufficiently advanced technology is equivalent to magic"
+    },
+    {
+      "author": "Bill Gates",
+      "text": "The advance of technology is based on making it fit in so that you don't really even notice it, so it's part of everyday life"
+    },
+    {
+      "author": "Bjarne Stroustrup",
+      "text": "I have always wished for my computer to be as easy to use as my telephone; my wish has come true because I can no longer figure out how to use my telephone"
+    },
+    {
+      "author": "Bjarne Stroustrup",
+      "text": "C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off"
+    },
+    {
+      "author": "Bjarne Stroustrup",
+      "text": "Clearly, I reject the view that there is one way that is right for everyone and for every problem"
+    },
+    {
+      "author": "Bjarne Stroustrup",
+      "text": "A program that has not been tested does not work"
+    },
+    {
+      "author": "Bruce Schneier",
+      "text": "Privacy is an inherent human right, and a requirement for maintaining the human condition with dignity and respect"
+    },
+    {
+      "author": "Bruce Schneier",
+      "text": "Anyone, from the most clueless amateur to the best cryptographer, can create an algorithm that he himself can't break"
+    },
+    {
+      "author": "Don DeLillo",
+      "text": "This is the whole point of technology. It creates an appetite for immortality on the one hand. It threatens universal extinction on the other. Technology is lust removed from nature"
+    },
+    {
+      "author": "Don Norman",
+      "text": "A brilliant solution to the wrong problem can be worse than no solution at all: solve the correct problem"
+    },
+    {
+      "author": "Don Norman",
+      "text": "It’s not enough that we build products that function, that are understandable and usable, we also need to build products that bring joy and excitement, pleasure and fun, and yes, beauty to people’s lives"
+    },
+    {
+      "author": "Douglas Adams",
+      "text": "A common mistake that people make when trying to design something completely foolproof is to underestimate the ingenuity of complete fools"
+    },
+    {
+      "author": "Edward V. Berard",
+      "text": "Walking on water and developing software from a specification are easy if both are frozen"
+    },
+    {
+      "author": "Elbert Hubbard",
+      "text": "One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man"
+    },
+    {
+      "author": "Harold Abelson",
+      "text": "Programs must be written for people to read, and only incidentally for machines to execute"
+    },
+    {
+      "author": "Jeff Pesis",
+      "text": "Hardware: the parts of a computer that can be kicked"
+    },
+    {
+      "author": "John Cleese",
+      "text": "Technology frightens me to death. It’s designed by engineers to impress other engineers. And they always come with instruction booklets that are written by engineers for other engineers — which is why almost no technology ever works"
+    },
+    {
+      "author": "Kathy Sierra",
+      "text": "It doesn't matter what you know, what matters is when you know"
+    },
+    {
+      "author": "Keith Bostic",
+      "text": "Perl – The only language that looks the same before and after RSA encryption"
+    },
+    {
+      "author": "Ken Thompson",
+      "text": "One of my most productive days was throwing away 1000 lines of code"
+    },
+    {
+      "author": "Larry Wall",
+      "text": "It is easier to port a shell than a shell script"
+    },
+    {
+      "author": "Larry Wall",
+      "text": "Most of you are familiar with the virtues of a programmer. There are three, of course: laziness, impatience, and hubris"
+    },
+    {
+      "author": "Linus Torvalds",
+      "text": "Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program"
+    },
+    {
+      "author": "Linus Torvalds",
+      "text": "Software is like sex; it's better when it's free"
+    },
+    {
+      "author": "Mark Minasi",
+      "text": "If McDonalds were run like a software company, one out of every hundred Big Macs would give you food poisoning, and the response would be, ‘We’re sorry, here’s a coupon for two more’"
+    },
+    {
+      "author": "Omar Bradley",
+      "text": "If we continue to develop our technology without wisdom or prudence, our servant may prove to be our executioner"
+    },
+    {
+      "author": "Pablo Picasso",
+      "text": "Computers are useless. They can only give you answers"
+    },
+    {
+      "author": "Peter Deutsch",
+      "text": "To iterate is human, to recurse divine"
+    },
+    {
+      "author": "Peter Wegner",
+      "text": "It is impossible to fully specify or test an interactive system designed to respond to external inputs"
+    },
+    {
+      "author": "Steve Jobs",
+      "text": "Great things in business are never done by one person. They're done by a team of people"
+    },
+    {
+      "author": "Steve Jobs",
+      "text": "Innovation distinguishes between a leader and a follower"
+    },
+    {
+      "author": "Steve Jobs",
+      "text": "Technology is nothing. What's important is that you have a faith in people, that they're basically good and smart, and if you give them tools, they'll do wonderful things with them"
+    },
+    {
+      "author": "Steve McConnell",
+      "text": "Good code is its own best documentation. As you’re about to add a comment, ask yourself, ‘How can I improve the code so that this comment isn’t needed?'"
+    },
+    {
+      "author": "Sydney Harris",
+      "text": "The real danger is not that computers will begin to think like men, but that men will begin to think like computers"
+    },
+    {
+      "author": "Tony Hoare",
+      "text": "There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult"
+    },
+    {
+      "author": "Vidiu Platon",
+      "text": "I don't care if it works on your machine! We are not shipping your machine!"
     }
   ]
 }
