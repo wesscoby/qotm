@@ -1,6 +1,6 @@
 {
   "name": "qotm",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Quote of the Moment (Tech and Programming Quotes)",
   "main": "index.js",
   "preferGlobal": true,
@@ -25,10 +25,15 @@
     "url": "https://github.com/WessCoby/qotm/issues"
   },
   "homepage": "https://github.com/WessCoby/qotm#readme",
-  "devDependencies": {},
   "dependencies": {
     "commander": "^2.20.0",
+    "cowsay": "^1.5.0",
     "inquirer": "^6.5.0",
-    "lowdb": "^1.0.0"
-  }
+    "lolcatjs": "^2.4.1",
+    "lowdb": "^1.0.0",
+    "word-wrap": "^1.2.3"
+  },
+	"pkg": {
+		"outputPath": "dist"
+	}
 }

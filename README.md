@@ -2,36 +2,35 @@
 Display a random tech or programming quote to the console.
 
 ## Overview
-`qotm` is my version of `fortune` but outputs tech or programming quotes. And like `fortune`, `qotm` is better with `cowsay` and/or `lolcat`. So it is best to have either or both of them installed.
+`qotm` is my version of `fortune` but outputs tech or programming quotes.
 ![qotm command preview](./images/preview.png)
 
 ## Installation
 ```sh
 # Installing qotm
 > npm install -g qotm
-
-# Installing cowsay and lolcat:
-# Via apt 
-> sudo apt-get install cowsay lolcat
-
-# Via npm
-> npm install -g cowsay lolcatjs
 ```
 ### Usage
 ```sh
-# Get a random quote [ text only ]
-> qotm
-
-# Colorize text with lolcat (or lolcatjs, if you installed via npm)
-> qotm | lolcat
-
-# Text with cowsay
-> qotm | cowsay
-
-# Combined
-> qotm | cowsay | lolcat
+qotm
+ _________________________________
+/                                 \
+|   Write shy code - modules that |
+|   don't reveal anything         |
+|   unnecessary to other modules  |
+|   and that don't rely on other  |
+|   modules' implementations      |
+|                                 |
+|   -- Unknown                    |
+\                                 /
+ ---------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
 ```
-You can also add the command to your shell's `*rc` file (.bashrc, .zshrc, etc. or whatever file the shell loads on startup) so it outputs a quote everytime you open a new shell.
+You can also add the command to your shell's `*rc` file (.bashrc, .zshrc, etc. or whatever file the shell loads on startup) so it outputs a quote every time you open a new shell.
 
 ### Updates
 This Repo will be frequently updated with new quotes. Simply run `npm i -g qotm` to get the latest updates. Expect an update notifier to be added in future updates so as to prompt you when new updates are ready.
@@ -41,10 +40,19 @@ There are thousands of tech and programming quotes out there. You have your favo
 *NB*: I may need to verify the quote and it's author. Please do check as well before adding quotes. 
 
 ```sh
-> qotm 
-
-Vision without execution is daydreaming
-
--- Bill Gates
-
+❯ qotm
+ __________________________________
+/                                  \
+|   One of the best programming    |
+|   skills you can have is knowing |
+|   when to walk away for a while  |
+|                                  |
+|   -- Oscar Godson                |
+\                                  /
+ ----------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
 ```
